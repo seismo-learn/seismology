@@ -2,3 +2,7 @@
 ############
 
 
+.. toctree::
+   :hidden:
+  
+   crustal-phases
