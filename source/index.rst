@@ -4,8 +4,8 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 地震波
+   :caption: 射线理论：走时
    :hidden:
 
-   travel-time/index
+   ray-nomenclature/index
 
