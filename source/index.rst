@@ -1,5 +1,5 @@
-地震学基础
-##########
+地震“学”基础
+############
 
 
 .. toctree::
@@ -7,4 +7,3 @@
    :hidden:
 
    ray-theory-travel-times/index
-
