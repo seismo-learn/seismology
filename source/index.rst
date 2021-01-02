@@ -4,8 +4,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 地震波
    :hidden:
 
-   travel-time/index
+   ray-theory-travel-times/index
 
