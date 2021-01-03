@@ -8,11 +8,14 @@
 
    地壳震相的几何路径和名称
 
-- **Pg**: At short distances, either an upgoing P wave from a source in the upper crust or a P wave bottoming in the upper crust. At larger distances also arrivals caused by multiple P-wave reverberations inside the whole crust with a group velocity around 5.8 km/s.
-- **Pb**: (**alt**: P*) Either an upgoing P wave from a source in the lower crust or a P wave bottoming in the lower crust
-- **Pn**: Any P wave bottoming in the uppermost mantle or an upgoing P wave from a source in the uppermost mantle
-- **PmP**: P reflection from the outer side of the Moho
-- **Sg**: At short distances, either an upgoing S wave from a source in the upper crust or an S wave bottoming in the upper crust. At larger distances also arrivals caused by superposition of multiple S-wave reverberations and SV to P and/or P to SV conversions inside the whole crust.
-- **Sb**: (**alt**: S*) Either an upgoing S wave from a source in the lower crust or an S wave bottoming in the lower crust
-- **Sn**: Any S wave bottoming in the uppermost mantle or an upgoing S wave from a source in the uppermost mantle
-- **SmS**: S reflection from the outer side of the Moho
+- **Pg**：在近场，上地壳震源产生的上行 P 波或在上地壳折返的 P 波。也可表示在更大震中距处，
+  整个地壳内部多次 P 波混响产生的地震波，群速度约为 5.8 km/s。
+- **Pb**：也叫 P*，下地壳震源产生的上行 P 波或在下地壳折返的 P 波。
+- **Pn**：在上地幔顶部折返的任何 P 波或上地幔顶部震源产生的上行 P 波
+- **PmP**：Moho 不连续面的上界面反射 P 波
+
+- **Sg**：在近场，上地壳震源产生的上行 S 波或在上地壳折返的 S 波。也可表示在更大震中距处，
+  整个地壳内部多次 S 波混响与 SV-P 和/或 P-SV 转换的叠加而产生的地震波。
+- **Sb**：也称 S*，下地壳震源产生的上行 S 波或在下地壳折返的 S 波。
+- **Sn**：在上地幔顶部折返的任何 S 波或上地幔顶部震源产生的上行 S 波
+- **SmS**：Moho 不连续面的上界面反射 S 波
