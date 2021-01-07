@@ -30,10 +30,3 @@
    （a）震源位于上地壳；（b）震源位于下地壳；（c）震源位于上地幔顶部。
    图片来自 *New Manual of Seismological Observatory Practice （第二版）* 的
    Information Sheet 2.1 的图 1
-
-
-参考文档
---------
-
-- `IASPEI standard phase list <http://www.isc.ac.uk/standards/phases/>`__
-- `The IASPEI standard nomenclature of seismic phases <https://gfzpublic.gfz-potsdam.de/rest/items/item_152435/component/file_152589/content>`__
