@@ -17,7 +17,7 @@
   最大能量的群速度大约是 3.5 km/s。
 - **Rg**： 短周期地壳瑞利波
 
-.. figure:: crustal-phase-raypaths.png
+.. figure:: crustal-phase-raypaths.jpg
    :alt: 常见地壳震相的几何路径
    :width: 60.0%
    :align: center
