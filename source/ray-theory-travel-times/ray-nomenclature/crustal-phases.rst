@@ -26,7 +26,7 @@
    :width: 60.0%
    :align: center
 
-   在局部和区域震中距（0°～20°）处，双层地壳模型中常见地壳震相的射线路径。
+   在局部和区域震中距（0°—20°）处，双层地壳模型中常见地壳震相的射线路径。
    （a）震源位于上地壳；（b）震源位于下地壳；（c）震源位于上地幔顶部。
    图片来自 *New Manual of Seismological Observatory Practice （第二版）* 的
    Information Sheet 2.1 的图 1
