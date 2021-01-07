@@ -5,7 +5,7 @@
 .. rubric:: 参考文档
 
 - `IASPEI standard phase list <http://www.isc.ac.uk/standards/phases/>`__
-- `The IASPEI standard nomenclature of seismic phases <https://gfzpublic.gfz-potsdam.de/rest/items/item_152435/component/file_152589/content>`__
+- `The IASPEI standard nomenclature of seismic phases <https://doi.org/10.2312/GFZ.NMSOP-2_IS_2.1>`__
 
 .. toctree::
    :hidden:
