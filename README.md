@@ -4,7 +4,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 
 
-本文档主要介绍地震学基础，以便初学者快速入门等。
+本文档主要介绍地震学基础知识。
 
 - 项目主页：https://github.com/seismo-learn/seismology
 - 网页版：https://seismo-learn.org/seismology/
