@@ -1,6 +1,6 @@
 # 地震“学”参考书
 
-[![build](https://github.com/seismo-learn/seismology/workflows/CI/badge.svg)](https://github.com/seismo-learn/seismology/actions?query=workflow%3ACI)
+[![Deploy](https://github.com/seismo-learn/seismology/workflows/Deploy/badge.svg)](https://github.com/seismo-learn/seismology/actions?query=workflow%3ADeploy)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
 
 
