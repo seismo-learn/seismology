@@ -1,4 +1,5 @@
 sphinx
 sphinx-cjkspace
-sphinx-tabs
+sphinx-copybutton
+sphinx-panels
 sphinx_rtd_theme
