@@ -11,3 +11,4 @@
    :hidden:
   
    crustal-phases
+   phase-notes
