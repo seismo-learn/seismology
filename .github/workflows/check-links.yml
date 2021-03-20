@@ -19,7 +19,7 @@ jobs:
       with:
         path: repository
 
-    - name: Checkout the documentation
+    - name: Checkout the website
       uses: actions/checkout@v2.3.4
       with:
         ref: gh-pages
