@@ -31,6 +31,7 @@ jobs:
         # 429: Too many requests
         args: >
           --accept 429
+          --verbose
           "repository/README.md"
           "website/**/*.html"
       env:
