@@ -1,8 +1,8 @@
 射线理论：走时
-###############
+===============
 
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
 
    ray-nomenclature/index
