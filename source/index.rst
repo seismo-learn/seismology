@@ -7,6 +7,7 @@
 
    ray-theory-travel-times/index
    literature/index
+   popular-science/index
 
 
 欢迎阅读由\ `地震“学”小组 <https://github.com/orgs/seismo-learn/people>`__\
