@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: 射线理论
+    chapters:
+    - file: ray-nomenclature/crustal-phases.md
+  - caption: 外部链接
+    chapters:
+    - url: https://seismo-learn.org/
+      title: 地震“学”主站
+    - url: https://seismo-learn.org/contributing/
+      title: 贡献指南
+    - url: https://github.com/seismo-learn/seismology101/discussions
+      title: 参与讨论
