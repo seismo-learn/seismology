@@ -7,6 +7,7 @@ parts:
   - caption: 射线理论
     chapters:
     - file: ray-nomenclature/crustal-phases.md
+    - file: seismic-wave/surface-wave.md
   - caption: 外部链接
     chapters:
     - url: https://seismo-learn.org/
