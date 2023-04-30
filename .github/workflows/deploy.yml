@@ -27,24 +27,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Mambaforge
-        uses: conda-incubator/setup-miniconda@v2.2.0
+      - name: Setup Micromamba
+        uses: mamba-org/provision-with-micromamba@v15
         with:
-          activate-environment: seismo-learn
           environment-file: environment.yml
-          miniforge-variant: Mambaforge
-          use-mamba: true
+          cache-downloads: true
+          cache-env: true
 
       - uses: actions/cache@v3
         id: cache
         with:
-          path: _build/jupyter_execute/
-          key: notebooks
+          path: |
+            _build/jupyter_execute/
+            ~/.local/share/cartopy/
+            ~/.matplotlib/
+          key: caches
 
       - name: Disable notebook cache for scheduled jobs
         if: github.event_name == 'schedule'
         run: |
-          sed -i"" 's/execute_notebooks: cache/execute_notebooks: force/' source/_config.yml
+          sed -i"" 's/execute_notebooks: auto/execute_notebooks: force/' source/_config.yml
 
       - name: Build documentation
         run: make dirhtml
