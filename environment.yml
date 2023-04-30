@@ -6,4 +6,3 @@ dependencies:
   - python=3.10
   - jupyter-book
   - obspy=1.4.0
-  - sphinx-design
