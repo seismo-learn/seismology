@@ -1,5 +1,10 @@
 # 地壳震相
 
+- 本节贡献者：{{ 姚家园 }} （作者）
+- 最近更新日期：2021-01-07
+
+---
+
 地球洋壳的厚度一般是 6 km，陆壳厚度一般是 30—50 km。地壳和地幔之间存在地震波速度
 陡升的一级不连续面，即 Moho 面。因此，在地壳不同深度的震源会在不同震中距处会产生射线路径
 不同的地震震相。
@@ -30,7 +35,7 @@ Information Sheet 2.1 的图 1
 :::
 
 
-**参考文档**
+## 参考文档
 
 - [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases/)
 - [The IASPEI standard nomenclature of seismic phases](https://doi.org/10.2312/GFZ.NMSOP-2_IS_2.1)
