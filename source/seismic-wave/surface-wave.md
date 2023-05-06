@@ -1,5 +1,10 @@
 # 面波
 
+- 本节贡献者：{{ 姚家园 }}
+- 最近更新日期：2022-08-19
+
+---
+
 ## 面波频散
 
 不同频率的面波传播速度不同，即频散（dispersion）。面波的传播速度与频率的函数关系称为
@@ -21,7 +26,7 @@
 
 :::{figure} dispersion-cartoon.jpg
 :align: center
-:alt: "\u76F8\u901F\u5EA6\u548C\u7FA4\u901F\u5EA6\u7684\u793A\u610F\u56FE"
+:alt: "相速度和群速度的示意图"
 :width: 50%
 
 相速度和群速度的示意图。修改自《[Introduction to Seismology]》（第三版）图 8.7。
