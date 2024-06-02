@@ -4,5 +4,5 @@ channels:
   - nodefaults
 dependencies:
   - python=3.10
-  - jupyter-book=0.13
+  - jupyter-book=1.0.0
   - obspy=1.4.0
